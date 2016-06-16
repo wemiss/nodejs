@@ -1,0 +1,19 @@
+{
+  "name": "gaos_loadfile",
+  "version": "1.0.4",
+  "description": "download server file(such as img,css)",
+  "main": "gaos_loadfile.js",
+  "scripts": {
+    "test": "gaos_loadfile(url,filename)"
+  },
+  "keywords": [
+    "load",
+    "file"
+  ],
+  "author": "gaos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wemiss/nodejs/issues"
+  },
+  "homepage": "https://github.com/wemiss/nodejs#readme"
+}
